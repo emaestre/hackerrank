@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     int n;
-    cin >> n;
+    cin >> n;   
     vector<int> a(n);
     for(int a_i = 0; a_i < n; a_i++){
        cin >> a[a_i];
